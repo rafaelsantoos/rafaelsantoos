@@ -1,16 +1,23 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=500664&height=120&section=header"/>
 
-<!--
-**rafaelsantoos/rafaelsantoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=983FB0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Rafael+Santos...;Sou+de+São+Paulo+-+Brasil...;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelsantoos&show_icons=true&count_private=true&hide_border=true&title_color=983FB0&icon_color=983FB0&text_color=C90FFC&bg_color=0d1117" alt="Rafael Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&layout=compact&hide_border=true&title_color=983FB0&text_color=983FB0&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelsantoos&bg_color=0d1117&color=C90FFC&line=500664&point=C90FFC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/rafael-santos-b49155151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelsantoos}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=500664&height=120&section=footer"/>

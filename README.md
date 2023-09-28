@@ -1,6 +1,8 @@
 # Hello World, I'm Rafa, be welcome!
 <table>
   <a href="https://github.com/rafaelsantoos">
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafaelsantoos\&show_icons=true\&theme=dracula)](https://github.com/rafaelsantoos/github-readme-stats#dracula)
     <br>
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">

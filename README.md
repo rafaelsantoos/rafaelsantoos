@@ -1,18 +1,17 @@
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/rafael-santos-b49155151/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-santos-b49155151/)](https://www.linkedin.com/in/rafael-santos-b49155151/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat&labelColor=6633cc&logo=gmail&logoColor=white)](mailto:rafaelsantos.ss.com)
 
 ## My name is Rafael Santos
-(React JS | Next JS | Angular  | Javascript | HTML | CSS | Typescript | Java | Spring Boot ) 🚀
-- 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
-- 🎓 Computer Science Student
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+(HTML | CSS | JavaScript | AngularJS | Bootstrap | ReactJS | Python | Java | C# | Kotlin | Swift | SQL (Oracle) | NoSQL ) 🚀
+- 🎓 Analysis and Systems Development student.
+- 👨🏼‍🎓 Graduated in I.T.
+- 🌐 Passionate about web development...
+- 💪🏼 Love a good challenge!!!
 
-<div align="left">
+<div align="center">
   
 [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   

@@ -6,7 +6,7 @@
 
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
-## My name is Fernanda Kipper
+## My name is Rafael Santos
 (React JS | Next JS | Angular  | Javascript | HTML | CSS | Typescript | Java | Spring Boot ) 🚀
 - 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
 - 🎓 Computer Science Student
@@ -16,6 +16,6 @@
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>

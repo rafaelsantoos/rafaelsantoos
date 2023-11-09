@@ -5,7 +5,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat&labelColor=6633cc&logo=gmail&logoColor=white)](mailto:rafaelsantos.ss.com)
 
 ## My name is Rafael Santos
-(HTML | CSS | JavaScript | AngularJS | Bootstrap | ReactJS | Python | Java | C# | Kotlin | Swift | SQL (Oracle) | NoSQL ) 🚀
+(HTML | CSS | JavaScript | AngularJS | Bootstrap | ReactJS | Git & GitHub | Python | Java | C# | Kotlin | Swift | SQL (Oracle) | NoSQL ) 🚀
 - 🎓 Analysis and Systems Development student.
 - 👨🏼‍🎓 Graduated in I.T.
 - 🌐 Passionate about web development...

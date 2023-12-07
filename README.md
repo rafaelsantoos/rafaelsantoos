@@ -1,7 +1,6 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-santos-b49155151/)](https://www.linkedin.com/in/rafael-santos-b49155151/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Mail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat&labelColor=6633cc&logo=gmail&logoColor=white)](mailto:rafaelsantos.ss.com)
 
 ## My name is Rafael Santos

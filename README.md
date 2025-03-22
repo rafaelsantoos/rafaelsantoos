@@ -4,7 +4,9 @@
 [![Mail Badge](https://img.shields.io/badge/-Email-6633cc?style=flat&labelColor=6633cc&logo=gmail&logoColor=white)](mailto:rafaelsantos.ss.com)
 
 ## My name is Rafael Santos
-HTML | CSS | JavaScript | React JS | Bootstrap | SASS - SCSS | Git & GitHub | Python | 🚀
+HTML | CSS | JavaScript | React JS | Kotlin | Bootstrap | SASS - SCSS | Git & GitHub | Python | 🚀
+Figma | Adobe CC | Canva 🚀
+
 - 🎓 Analysis and Systems Development student.
 - 👨🏼‍🎓 Graduated in I.T.
 - 🎨 UI/UX Designer | Graphic Design

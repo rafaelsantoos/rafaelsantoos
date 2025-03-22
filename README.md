@@ -7,6 +7,7 @@
 HTML | CSS | JavaScript | React JS | Bootstrap | SASS - SCSS | Git & GitHub | Python | 🚀
 - 🎓 Analysis and Systems Development student.
 - 👨🏼‍🎓 Graduated in I.T.
+- 🎨 UI/UX Designer | Graphic Design
 - 🌐 Passionate about web development...
 - 💪🏼 Love a good challenge!!!
 

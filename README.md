@@ -22,7 +22,7 @@ Figma | Adobe CC | Canva 🚀
  <h1 align="center">Rafael Santos</h1>
 
 <p align="center">
-  <b>Front-End Developer | Design & Code | UI, UX & Web</b><br><br>
+  <b>Front-End Developer | Design & Code | UI/UX & Web</b><br><br>
   Criando experiências digitais modernas, responsivas e funcionais.<br>
   Ajudando marcas e pessoas a transformarem ideias em interfaces.
 </p>
@@ -33,6 +33,7 @@ Figma | Adobe CC | Canva 🚀
 
 Olá! Eu sou o **Rafael Santos**, Web Designer e Desenvolvedor Front-End.  
 Trabalho criando **interfaces modernas, responsivas e intuitivas**, unindo **design e desenvolvimento** para oferecer soluções completas no ambiente digital.
+Formado em Análise e Desenvolvimento de Sistemas pela FIAP e também em Gestão de T.I pela USCS.
 
 - 🎨 **Design de Interfaces (UI/UX)**  
 - 🖥️ **Desenvolvimento Front-End (HTML, CSS, JavaScript, React, etc.)**  
@@ -50,9 +51,9 @@ Trabalho criando **interfaces modernas, responsivas e intuitivas**, unindo **des
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
+ 
 </div>
 
 ---

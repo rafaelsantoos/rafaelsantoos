@@ -61,7 +61,7 @@ Trabalho criando **interfaces modernas, responsivas e intuitivas**, unindo **des
 
 - 🔗 [Portfolio no Behance](https://www.behance.net/rafaelsantoss)  
 - 🔗 [Instagram Profissional](https://www.instagram.com/rafaelsantos.studio/)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/rafael-santos-b49155151/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-santos-b49155151/)
 - 🌐 Meu site (em breve)
 
 ---

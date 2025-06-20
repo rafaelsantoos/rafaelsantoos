@@ -61,7 +61,7 @@ Trabalho criando **interfaces modernas, responsivas e intuitivas**, unindo **des
 
 - 🔗 [Portfolio no Behance](https://www.behance.net/rafaelsantoss)  
 - 🔗 [Instagram Profissional](https://www.instagram.com/rafaelsantos.studio/)
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rafael-santos-b49155151/))
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/rafael-santos-b49155151/)
 - 🌐 Meu site (em breve)
 
 ---
@@ -70,7 +70,7 @@ Trabalho criando **interfaces modernas, responsivas e intuitivas**, unindo **des
 
 <div align="center">
   
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelsntoos&show_icons=true&theme=tokyonight&hide_border=true)  
+[![Rafael top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&layout=compact&theme=tokyonight&hide_border=true)  
 
 </div>

@@ -72,11 +72,11 @@ Formado em Análise e Desenvolvimento de Sistemas pela FIAP e também em Gestão
 <div align="center">
   
 <!-- [![Rafael top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&layout=compact&theme=tokyonight&hide_border=true)  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&layout=compact&theme=tokyonight&hide_border=true)  
 
-</div> -->
+</div>
 
----
+--- -->
 
 <p align="center">
 Feito com ❤️ por <b>Rafael Santos</b>

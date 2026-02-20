@@ -65,7 +65,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela FIAP e também em Gestão
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-santos-b49155151/)
 - 🌐 Meu site (em breve)
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
@@ -74,7 +74,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela FIAP e também em Gestão
 <!-- [![Rafael top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoos&layout=compact&theme=tokyonight&hide_border=true)  
 
-</div>
+</div> -->
 
 ---
 
